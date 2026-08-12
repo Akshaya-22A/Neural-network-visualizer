@@ -1,4 +1,20 @@
-# Neural-network-visualizer
-Visualizing and understanding how the neurons works and activates itself in a complex networks and visualizing the parameter changes and mathematical calculation running at the backend along with visualizing in graphs and neural networks as in 3D visualization with the parameters ,comparsion and feasibility of a neuron in a network.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/e7ba198f-e34b-4fe9-8b94-bb1a01243bc4
+
+## Run Locally
+
+**Prerequisites:**  Node.js
 
 
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
